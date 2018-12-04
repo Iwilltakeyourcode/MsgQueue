@@ -1,4 +1,4 @@
-
+#define TEST
 #include "msgqueue.h"
 #include <stdio.h>
 #include <stdlib.h>
